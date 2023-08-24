@@ -33,7 +33,7 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #e9edf0;
+  background-color: #a3c8ff;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -88,7 +88,7 @@ button.btn, input.btn {
 }
 
 .main {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
   &.container {
@@ -135,7 +135,7 @@ button.btn, input.btn {
     width: 100%;
   }
   h1 {
-    font-size: 48px;
+    font-size: 40px;
   }
   p {
     margin: 2em 0 4em 0;
@@ -211,9 +211,9 @@ button.btn, input.btn {
     margin-top: 2em;
   }
   .break {
-    margin: 8em 0;
+    margin: 8em 0;    
     @include bp-xsmall {
-      margin: 2em 0;
+      margin: 2em 0;      
     }
   }
 }

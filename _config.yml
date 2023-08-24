@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm <>."
-email: 'sample@sample.com'
-description: "I am a data analyst"
-baseurl: "" # the subpath of your site, e.g. /blog
+title: "Good day👋 I'm Anton."
+email: 'contact@antonbelko.com'
+description: "Results-oriented data professional skilled at examining problems from a broad and detailed perspectives. I enjoy extracting, interpreting, and visualizing meaningful insights from datasets to solve business challenges and help companies optimize operations and drive growth."
+baseurl:  # the subpath of your site, e.g. /blog
 url: "https://antonprog.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 
+linkedin_username: 'abelko'
 github_username: 'antonprog'
-medium_username: 
+email_address: 'contact@antonbelko.com'
+section_title: '- Latest Work -'
 
 # Build settings
 markdown: kramdown
@@ -89,13 +90,13 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2023'
+footer_text: 'Anton Belko © 2023'
 admin_name: 'Anton'
 google_analytics:  # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
-enable_nav: true
+enable_nav: false
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
