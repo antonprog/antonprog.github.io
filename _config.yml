@@ -27,7 +27,7 @@ section_title: '- Latest Work -'
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -90,7 +90,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: 'Anton Belko © 2023'
+footer_text: '© 2023 Anton Belko'
 admin_name: 'Anton'
 google_analytics:  # Update with your own tracking ID
 enable_contact: false
