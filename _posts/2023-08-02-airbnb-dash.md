@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'AirBnb Los Angeles Dashboard'
-date: 2023-08-01 14:15:00
+date: 2023-08-01 12:00:00
 categories: development
 tags: [Python, SQL Server, SQL, Tableau]
 featured_image: '/img/posts/Dashboard.png'
