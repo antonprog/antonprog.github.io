@@ -34,6 +34,8 @@ $secondary: #FF7B7B;
 
 body {
   background-color: #a3c8ff;
+  background-image: url("/img/bkg_office.png");  
+  background-size:cover;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -88,9 +90,11 @@ button.btn, input.btn {
 }
 
 .main {
-  background-color: rgb(255, 255, 255);
-  border-left: solid 1px #cedfea;
-  border-right: solid 1px #cedfea;
+  background-color: rgb(255, 255, 255);  
+  // border-left: solid 1px #cedfea;
+  // border-right: solid 1px #cedfea;  
+  border-left: solid 1px black;
+  border-right: solid 1px black; 
   &.container {
     padding: 0;
   }
@@ -270,7 +274,7 @@ button.btn, input.btn {
       margin-left: 0;
     }
     h3.title {
-      position: relative;
+      position: relative;      
       margin-bottom: 1.5em;
       &:after {
         content: '';
