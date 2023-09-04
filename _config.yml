@@ -95,7 +95,7 @@ pagination:
 ### Phantom settings
 footer_text: '© 2023 Anton Belko'
 admin_name: 'Anton'
-google_analytics:  # Update with your own tracking ID
+google_analytics: G-RHN1MP6RHF
 enable_contact: false
 
 #### Phantom Navigation menu
