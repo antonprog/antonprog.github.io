@@ -7,7 +7,7 @@ categories: development
 tags: [Tableau]
 featured_image: '/img/posts/AirBnb_dash.png'
 project_link: '/projects/airbnb-dash'
-button_icon: 'chart-simple'
+button_icon: 'bar-chart'
 button_text: 'Visit Project'
 lead_text: 'This dashboard highlights key informational areas of listings'
 ---
