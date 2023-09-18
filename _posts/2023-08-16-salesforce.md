@@ -1,7 +1,7 @@
 ---
 layout: inner
-position: left
-title: 'Salesforce Dashboard'
+position: right
+title: 'Salesforce Dashboardw'
 date: 2023-08-17 12:00:00
 categories: development
 tags: Excel
